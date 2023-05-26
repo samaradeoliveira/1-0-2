@@ -1,1 +1,1 @@
-# 1-0-2
+Código Python para mover arquivos de imagens da pasta Downloads para uma nova pasta.
